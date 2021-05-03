@@ -27,6 +27,5 @@ def  estCondicional02 ():
   #Datos de salida
   print ( "La cantidad a pagar es:" , montoP )
 
-estCondicional01 () 
 # estCondicional01 ()
 estCondicional02 () 
