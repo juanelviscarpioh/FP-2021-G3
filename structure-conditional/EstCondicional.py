@@ -83,8 +83,13 @@ def  votoElecciones ():
     mensaje = "Usted no cumple con la edad mínima para votar"
   imprimir ( mensaje )
 
+<<<<<<< HEAD
 #estCondicional01()
 #estCondicional02()
 #votoElecciones()
 #pagoSemanaBase40horas()
 notaPostulanteEstMultiple()
+=======
+# estCondicional01 ()
+estCondicional02 () 
+>>>>>>> 14140635a9f4d2065cc12150e6896e5bf29ed1d5
